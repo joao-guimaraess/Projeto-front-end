@@ -19,4 +19,3 @@
 Receita inspirada em [Tudo gostoso](https://www.tudogostoso.com.br/receita/183059-pizza-caseira-facil.html)
 
 ![Pizza feita]( )
-# vasco
